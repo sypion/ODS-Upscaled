@@ -1,6 +1,6 @@
 # ODS-Upscaled
 A content pack made to upscale every texture for Operation Dessert Storm.
-This Git repository is made for reference only during this time. If you'd like to download the content pack, [click here.](https://goo.gl/wZKASt)
+This Git repository is made for reference only during this time. If you'd like to download the content pack, [click here.]()(Not available  at this moment. Please check back soon.)
 
 
 #### Take Notice:
